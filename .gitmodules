@@ -16,3 +16,6 @@
 [submodule "nlw4-react"]
 	path = nlw4-react
 	url = git@github.com:joaom00/nlw4-react.git
+[submodule "proffy"]
+	path = proffy
+	url = git@github.com:joaom00/proffy.git
