@@ -19,3 +19,6 @@
 [submodule "proffy"]
 	path = proffy
 	url = git@github.com:joaom00/proffy.git
+[submodule "happy-web"]
+	path = happy-web
+	url = git@github.com:joaom00/happy-web.git
