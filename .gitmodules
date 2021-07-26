@@ -1,3 +1,6 @@
 [submodule "alurakut"]
 	path = alurakut
 	url = git@github.com:joaom00/alurakut.git
+[submodule "dogs"]
+	path = dogs
+	url = git@github.com:joaom00/dogs.git
