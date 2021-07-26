@@ -7,3 +7,6 @@
 [submodule "js-funcional-reativo"]
 	path = js-funcional-reativo
 	url = git@github.com:joaom00/js-funcional-reativo.git
+[submodule "podcastr"]
+	path = podcastr
+	url = git@github.com:joaom00/podcastr.git
