@@ -13,3 +13,6 @@
 [submodule "ecoleta"]
 	path = ecoleta
 	url = git@github.com:joaom00/ecoleta.git
+[submodule "nlw4-react"]
+	path = nlw4-react
+	url = git@github.com:joaom00/nlw4-react.git
