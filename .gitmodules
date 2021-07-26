@@ -22,3 +22,6 @@
 [submodule "happy-web"]
 	path = happy-web
 	url = git@github.com:joaom00/happy-web.git
+[submodule "mememaker"]
+	path = mememaker
+	url = git@github.com:joaom00/mememaker.git
