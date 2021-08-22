@@ -19,3 +19,6 @@
 [submodule "moveit-react"]
 	path = moveit-react
 	url = git@github.com:joaom00/moveit-react.git
+[submodule "happy"]
+	path = happy
+	url = git@github.com:joaom00/happy.git
