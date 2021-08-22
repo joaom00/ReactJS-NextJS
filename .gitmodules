@@ -16,3 +16,6 @@
 [submodule "mememaker"]
 	path = mememaker
 	url = git@github.com:joaom00/mememaker.git
+[submodule "moveit-react"]
+	path = moveit-react
+	url = git@github.com:joaom00/moveit-react.git
