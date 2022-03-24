@@ -19,3 +19,6 @@
 [submodule "happy"]
 	path = happy
 	url = git@github.com:joaom00/happy.git
+[submodule "dogs"]
+	path = dogs
+	url = git@github.com:joaom00/dogs.git
