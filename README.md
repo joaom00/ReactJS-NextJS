@@ -65,7 +65,7 @@
         <th>
           <strong><a href="https://github.com/joaom00/mememaker">Repositório</a></strong>
           &nbsp;&nbsp;|&nbsp;&nbsp;
-          <strong><a href="https://mememaker-lyart.vercel.app">Site</a></strong>
+          <strong><a href="https://mememaker-mu.vercel.app/">Site</a></strong>
         </th>
         <th>
           <strong><a href="https://github.com/joaom00/moveit-react">Repositório</a></strong>
