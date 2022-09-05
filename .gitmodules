@@ -22,3 +22,6 @@
 [submodule "dogs"]
 	path = dogs
 	url = git@github.com:joaom00/dogs.git
+[submodule "github-blog"]
+	path = github-blog
+	url = git@github.com:joaom00/github-blog.git

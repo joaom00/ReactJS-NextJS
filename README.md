@@ -1,6 +1,29 @@
 <h1 align="center">Projetos ReactJS & NextJS</h1> 
 
 <div align="center">
+
+  <table border="0" cellspacing="0" cellpadding="0">
+    <thead>
+      <tr>
+        <th>
+          <strong><a href="https://github.com/joaom00/github-blog">Repositório</a></strong>
+          &nbsp;&nbsp;|&nbsp;&nbsp;
+          <strong><a href="https://github-blog-fawn.vercel.app/">Site</a></strong>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+            <img
+              alt="Projeto GitHub Blog"
+              src="./.github/github-blog.jpg"
+            />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
   <table border="0" cellspacing="0" cellpadding="0">
     <thead>
       <tr>
